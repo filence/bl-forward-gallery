@@ -1,0 +1,16 @@
+{
+  "title": "BL 影视馆 · 模块订阅",
+  "description": "BL 影视资料、海报墙与分类模块；资源由用户自己的 Emby 服务器提供。",
+  "icon": "https://github.com/filence.png",
+  "widgets": [
+    {
+      "id": "bl.poster.gallery",
+      "title": "BL 影视馆 · 海报墙",
+      "description": "BL 剧集、电影、动漫、地区精选和经典作品（不提供播放源）",
+      "requiredVersion": "0.0.1",
+      "version": "3.3.0",
+      "author": "BL 影视馆（参考夏恩 BL 模块）",
+      "url": "https://raw.githubusercontent.com/filence/bl-forward-gallery/refs/heads/main/BL%E5%BD%B1%E8%A7%86%E9%A6%86-v3.3.js"
+    }
+  ]
+}
